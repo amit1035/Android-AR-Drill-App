@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AR Drill Placement</string>
+    <string name="select_drill">Select Drill:</string>
+    <string name="start_ar_drill">Start AR Drill</string>
+    <string name="view_drill_details">View Drill Details</string>
+    <string name="back">Back</string>
+    <string name="drill_description">Description</string>
+    <string name="drill_tips">Tips</string>
+    <string name="ar_instructions">Move your device to detect surfaces, then tap to place drill marker</string>
+    <string name="ar_status_initializing">Initializing AR...</string>
+    <string name="camera_permission_required">Camera permission is required for AR functionality</string>
+    <string name="arcore_not_available">ARCore is not available on this device</string>
+</resources>
